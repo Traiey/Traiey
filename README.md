@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on someone proficient in programming。
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: Tree
 - ⚡ Fun fact: I'm a IT beginner。
 
 <!---
