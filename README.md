@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Traiey
-- 👀 I’m interested in python and c++.
+- 👀 I’m interested in python and c++ and so on.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on someone proficient in programming。
 - 📫 How to reach me ...
